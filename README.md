@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Gatsby, Docker**
 
-- 👨‍💻 All of my projects are available at [https://zubairsalarzaiportfolio.netlify.app/](https://zubairsalarzai.com)
+- 👨‍💻 All of my projects are available at [https://zubairsalarzai.com](https://zubairsalarzai.com)
 
 - 💬 Ask me about **react, nodejs, mongoDb**
 
